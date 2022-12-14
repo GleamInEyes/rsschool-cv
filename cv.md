@@ -1,5 +1,7 @@
 # Philipp Kotelevets
 
+![My photo](./assets/photo.jpg)
+
 ## Contact information:
 + Phone: +7 917 168 51 71
 + E-mail: philippkotelevets@yandex.ru
@@ -8,11 +10,13 @@
 
 ## About me
 I'm 29 years old and I'm studying for a frontend developer at RS-School in order to get my first job in this work area.
+
 ## Skills
 + HTML
 + CSS
 + JavaScript (Basic)
 + Git/Github
+
 ## Code Example
 ```
 function solution(number) {
@@ -25,6 +29,7 @@ function solution(number) {
     return sum;
 }
 ````
+
 ## Education
 + Povolzhskiy State University of Telecommunications and Informatics - Infocommunication technologies and communication systems.
 

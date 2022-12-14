@@ -13,7 +13,6 @@ I'm 29 years old and I'm studying for a frontend developer at RS-School in order
 + CSS
 + JavaScript (Basic)
 + Git/Github
-
 ## Code Example
 ```
 function solution(number) {
@@ -25,11 +24,10 @@ function solution(number) {
 }
     return sum;
 }
-```
+````
 ## Education
 + Povolzhskiy State University of Telecommunications and Informatics - Infocommunication technologies and communication systems.
 
 ## Languages:
 + Russian - native speaker.
 + English - B1.
-

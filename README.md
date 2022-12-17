@@ -1,1 +1,1 @@
-https://github.com/GleamInEyes/rsschool-cv/cv
+https://github.com/GleamInEyes/rsschool-cv/
